@@ -1,0 +1,6 @@
+EmployeeID,FullName,Age,Salary,Department
+1,John Doe,35,47655.0,Sales
+2,Jane Smith,28,37506.0,HR
+3,Mike Johnson,42,34947.0,Finance
+4,Emily Brown,29,68342.0,IT
+5,David Lee,38,48759.0,Sales
